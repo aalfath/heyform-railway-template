@@ -1,3 +1,5 @@
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/new/template/NoMr_k?utm_medium=integration&utm_source=button&utm_campaign=heyform)
+
 # HeyForm on Railway
 
 Railway template for [HeyForm](https://github.com/heyform/heyform) Community Edition, the open-source form builder for conversational forms, surveys, quizzes and polls.
